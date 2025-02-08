@@ -1,0 +1,9 @@
+com\wealthfitness\controller\UserController.class
+com\wealthfitness\service\FamilyService.class
+com\wealthfitness\model\User.class
+com\wealthfitness\model\Family.class
+com\wealthfitness\repository\UserRepository.class
+com\wealthfitness\service\UserService.class
+com\wealthfitness\wealthfitness\WealthfitnessApplication.class
+com\wealthfitness\controller\FamilyController.class
+com\wealthfitness\repository\FamilyRepository.class
